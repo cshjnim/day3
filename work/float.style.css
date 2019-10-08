@@ -1,0 +1,11 @@
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+#bio1 {
+    float: left;
+}
+#bio2 {
+    float: right;
+}
